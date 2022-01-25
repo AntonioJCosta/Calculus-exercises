@@ -30,8 +30,7 @@
 
 # First step
 
-1º - In the first cell, run the command: !pip install -r requirements.txt<br/>
-2º - If you want, you can run the command directly in the terminal, without the "!": pip install -r requirements.txt<br/>
+All instructions are in the project <br/>
 
 ## Author
 
